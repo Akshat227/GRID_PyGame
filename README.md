@@ -1,4 +1,4 @@
-# 🔷 Rotated & Squashed Grid in Pygame
+# 🔷 Isometric Grid
 
 [Pygame](https://www.pygame.org/) 
 
@@ -18,12 +18,7 @@ Perfect for learning:
 
 A dreamy diamond grid, like a tactical RPG board or early isometric game world.
 
-+-----------------------+
-| /\ |
-| /\ / \ /\ |
-| /\ /\ |
-| |
-+-----------------------+
+
 
 
 
